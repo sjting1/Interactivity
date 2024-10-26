@@ -1,0 +1,26 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+```{r, include = FALSE}
+ #toc = table of contents
+```
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## Links to other websites
+
+Use [link name](link path)
+
+## Local image
+![](images/pic.jpeg)
+
+## link to page within site
+[About](about.html)
